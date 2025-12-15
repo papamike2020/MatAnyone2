@@ -6,13 +6,15 @@
 
 <div>
     <a href='https://pq-yang.github.io/' target='_blank'>Peiqing Yang</a><sup>1</sup>&emsp;
-    <a href='https://shangchenzhou.com/' target='_blank'>Shangchen Zhou</a><sup>1</sup>&emsp;
+    <a href='https://shangchenzhou.com/' target='_blank'>Shangchen Zhou</a><sup>1†</sup>&emsp;
     <a href="https://www.linkedin.com/in/kai-hao-794321382/" target='_blank'>Kai Hao</a><sup>1</sup>&emsp;
     <a href="https://scholar.google.com.sg/citations?user=fMXnSGMAAAAJ&hl=en/" target='_blank'>Qingyi Tao</a><sup>2</sup>&emsp;
 </div>
 <div>
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; 
     <sup>2</sup>SenseTime Research, Singapore&emsp; 
+    <br>
+    <sup>†</sup>Project lead
 </div>
 
 
